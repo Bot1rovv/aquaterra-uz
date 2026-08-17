@@ -299,6 +299,11 @@ h1 {
   gap: 10px;
 }
 
+/* Three numbers stay balanced on phones: the final contact becomes a full row. */
+.action-row .action-secondary:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+}
+
 .action-secondary {
   padding: 10px;
   border: 1px solid rgba(125, 203, 255, 0.14);
