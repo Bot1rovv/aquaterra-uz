@@ -26,8 +26,8 @@ export const siteConfig = {
       },
       {
         name: "Otabek",
-        display: "@Aquaterraauz",
-        url: "https://t.me/Aquaterraauz",
+        display: "@AquaTerrauzz",
+        url: "https://t.me/AquaTerrauzz",
       },
     ],
     channel: {
