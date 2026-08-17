@@ -16,7 +16,7 @@ export const siteConfig = {
     phones: [
       { display: "+998 97 146 41 21", href: "+998971464121" },
       { display: "+998 97 414 41 21", href: "+998974144121" },
-      { display: "+998 93 773 41 21", href: "+998937734121" },
+      { display: "+998 95 822 41 21", href: "+998958224121" },
     ],
     telegrams: [
       {
